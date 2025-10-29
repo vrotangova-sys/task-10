@@ -1,6 +1,6 @@
 package Homeworks.Homeworks10;
 
-public class Employee {
+public abstract class Employee {
 
    // Необходимо создать класс Employee со следующими методами:
     //getBaseSalary - получить базовую ставку

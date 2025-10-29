@@ -7,7 +7,8 @@ import java.util.ArrayList;
 
 public class Main {
             public static void main(String[] args) {
-                List<Employee> staff = new ArrayList<>();
+                List<Employee> staff = new ArrayList<>(); // list<staff> список объектов типа staff,
+                //отвечает за хранение группы объектов, которые потом можно искать, фильтровать итд
 
                 // Workers
                 staff.add(new Worker("Аня", 1000.0, 1000.0, "Worker"));
